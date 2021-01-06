@@ -46,9 +46,11 @@ For the translation to german there should apply the following rules:
    * Sätze sollen flüssig lesbar sein (Sentences should be easy to read)
    * Die im Englischen übliche persönliche Anrede ("Du") des Benutzers sollte im Deutschen vermieden werden (The usual personal address ("Du") of the user in English should be avoided in German)
    * Sätze oder Einzelwörter werden groß geschrieben soweit sinnvoll (Sentences and single-words have a capital first letter as far as sensible)
+1. Maschinelle Übersetzungen sollen nicht ungeprüft übernommen werden. (Machine translations should not be accepted without checking.) Siehe/see [dictionary.csv](i18n-de/dictionary.csv).
 1. Sonderzeichen/UTF-8 (special characters)
    * Dateiformat ist (file format is) UTF-8. Somit sind Sonderzeichen erlaubt (so, special characters are allowed).
-1. Maschinelle Übersetzungen sollen nicht ungeprüft übernommen werden. (Machine translations should not be accepted without checking.) Siehe/see [dictionary.csv](i18n-de/dictionary.csv).
+1. Sonstiges (Misc.)
+   * Die runtime kann keine Text mit Formatierung ausgeben, z.B. mit Hochkomma ' (The runtime cannot output text with formatting, e.g. with Apostrophe ')
 
 # History
 
