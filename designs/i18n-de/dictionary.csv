@@ -19,7 +19,8 @@ ins Git-Repository übertragen (commit)",Git,Verb vermeiden,Geschlecht prüfen/änd
 configuration node,Konfigurationsnode,Node-RED,,
 context,Kontext,IT,,
 credential,Berechtigung,security,,
-decrypt,entschlüssel,security,,
+credential file,Datei mit Berechtigungen,security,,
+decrypt,entschlüsseln,security,,
 default,"voreingestellt
 Standard
 Normal
@@ -27,18 +28,20 @@ Vorgabe",,je nach Kontext,
 deploy,"deploy
 übernehmen (deploy)",Node-RED,,
 disabled,deaktivieren,,,
-email,E-Mail,,Siehe Wikipedia,
+email,E-Mail,,Siehe Wikipedia https://de.wikipedia.org/wiki/E-Mail,
 enabled,aktivieren,,,
 encrypt,verschlüsseln,security,,
 env,Umgebung,,,
 env variable,Umgebungsvariable,IT,,
 file,Datei,IT,,
-flow,Flow,Node-RED,,
+flow,(der) Flow,Node-RED,,
 git,Git,Git,,
 group,Gruppe,Node-RED,,
 head,HEAD (Lokaler Stand),Git,,
 history,Historie,Node-RED,,
 icon,Icon,IT,,
+input,"Eingang
+Eingangsdaten",Node-RED,je nach Kontext,
 item,Element,IT,,
 JSON,JSON,IT,,
 JSONata,JSONata,IT,,
@@ -47,23 +50,26 @@ keyboard shortcuts,Tastenkürzel,IT,,
 label,"Name
 Bezeichnung",,je nach Kontext,
 library,Bibliothek,Node-RED,,
+link,"verlinken
+Link",,,
 load,lade,,,
 log,Protokoll (log),IT,,
 manual,Handbuch,,,
-manually,händisch,,,
+manually,manuell,,,
 markdown,Mardown,IT,,
 merge,"(der) Merge (Hauptwort)
-(Git-Branches) zusammenführen",Git,Verb vermeiden,Geschlecht prüfen/ändern
+(Git-Branches) zusammenführen",Git,Verb vermeiden,
 module,Modul,,,
 navigator,Navigator,Node-RED,,
-node,Node,Node-RED,,
-node,(das) Node,,,
+node,(der) Node,Node-RED,,
 Node-RED,Node-RED,Node-RED,,
 null,null,IT,,
 number,"number (Datent5yp)
 Zahl (allgemein)",IT,,
 object,"object (Datentyp)
 Objekt (allgemein)",IT,,
+output,"Ausgang
+Ausgangsdaten",Node-RED,je nach Kontext,
 package,Paket,IT,,
 palette,Palette,Node-RED,,
 parse,"(der) Parser
@@ -74,17 +80,17 @@ Nutzdaten (Payload)",IT,je nach Kontext,
 phrase,Kennfloskel,security,,
 plugin,"(das) Plugin
 Zusatzmodul (Plugin)",IT,je nach Kontext,
-port,Anschluss (Port),IT,,
-property,Eigenschaft,,,
+port,Anschluss (Port),IT,,Geschlecht prüfen/ändern
+property,Eigenschaft,,,Geschlecht prüfen/ändern
 protocol,Protokoll,,,
 pull,"(der) Pull
-vom Server- (remote) ins lokale Git-Repository ziehen (pull)",Git,Verb vermeiden,Geschlecht prüfen/ändern
+vom Server- (remote) ins lokale Git-Repository ziehen (pull)",Git,Verb vermeiden,
 push,"(der) Push
 vom lokalen zum (remote) Server-Repository schieben (push)",Git,Verb vermeiden,Geschlecht prüfen/ändern
 regular expression,Regulärer Ausdruck,IT,,
 remote,"remote
 (remote) Server",Git,je nach Kontext,
-repository,(das) Repository,Git,,Geschlecht prüfen/ändern
+repository,(das) Repository,Git,,
 revert,Änderungen rückgängig machen (revert),Git,,
 scope,Geltungsbereich (scope),IT,,
 search box,Suchfeld,,,
