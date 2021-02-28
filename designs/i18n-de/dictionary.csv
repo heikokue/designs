@@ -1,38 +1,47 @@
 en-US,de,Kategorie,Anmerkung,to do
-array,array,IT,,
+array,"array
+Datenfeld",IT,je nach Kontext,
 auth,Authentifizierung,security,,
 authentication,Authentifizierung,security,,
 authorized,berechtigt,security,,
 bool,bool,IT,,
-boolean,boolean,IT,,
+boolean,"boolean
+Boolscher Wert",IT,je nach Kontext,
 branch,"(der) Branch
-abzweigen (branch)",Git,Verb vermeiden,Geschlecht prüfen/ändern
-buffer,buffer,IT,,
+abzweigen (branch)",Git,Verb vermeiden,
+broadcast,Broadcast,IT,,
+broker,Broker,MQTT,,
+buffer,"buffer
+binÃ¤rer Puffer (buffer)",IT,je nach Kontext,
+button,SchaltflÃ¤che,IT,,
 cast,umwandeln (caste),IT,,
 catalogue,Katalog,Node-RED,,
-circular reference,zirkulärer Bezug,IT,,
+checkbox,AuswahlkÃ¤stchen,IT,,
+circular reference,zirkulÃ¤rer Bezug,IT,,
 clipboard,Zwischenablage,IT,,
 clone,"Klone (clone)
-klonen (clone)",Git,,Geschlecht prüfen/ändern
+klonen (clone)",Git,,
+code,Code,IT,,
 commit,"(der) Commit (Hauptwort)
-ins Git-Repository übertragen (commit)",Git,Verb vermeiden,Geschlecht prüfen/ändern
+ins Git-Repository Ã¼bertragen (commit)",Git,Verb vermeiden,
 configuration node,Konfigurationsnode,Node-RED,,
 context,Kontext,IT,,
 credential,Berechtigung,security,,
 credential file,Datei mit Berechtigungen,security,,
-decrypt,entschlüsseln,security,,
+decrypt,entschlÃ¼sseln,security,,
 default,"voreingestellt
 Standard
 Normal
 Vorgabe",,je nach Kontext,
 deploy,"deploy
-übernehmen (deploy)",Node-RED,,
+Ã¼bernehmen (deploy)",Node-RED,,
 disabled,deaktivieren,,,
 email,E-Mail,,Siehe Wikipedia https://de.wikipedia.org/wiki/E-Mail,
 enabled,aktivieren,,,
-encrypt,verschlüsseln,security,,
+encrypt,verschlÃ¼sseln,security,,
 env,Umgebung,,,
 env variable,Umgebungsvariable,IT,,
+false,false,IT,,
 file,Datei,IT,,
 flow,(der) Flow,Node-RED,,
 git,Git,Git,,
@@ -45,10 +54,13 @@ Eingangsdaten",Node-RED,je nach Kontext,
 item,Element,IT,,
 JSON,JSON,IT,,
 JSONata,JSONata,IT,,
-key,Schlüssel,security,,
-keyboard shortcuts,Tastenkürzel,IT,,
-label,"Name
-Bezeichnung",,je nach Kontext,
+key,SchlÃ¼ssel,security,,
+keyboard shortcuts,TastenkÃ¼rzel,IT,,
+label,"Name / benennen
+Bezeichnung / bezeichnen",,"je nach Kontext
+deutsches Wort ist zu bevorzugen
+â€žLabelâ€œ verwenden, wenn â€žBezeichnungâ€œ zu lang und â€žNameâ€œ unpassend
+Denglisch vermeiden, z.B. Anschlusslabel",
 library,Bibliothek,Node-RED,,
 link,"verlinken
 Link",,,
@@ -58,62 +70,77 @@ manual,Handbuch,,,
 manually,manuell,,,
 markdown,Mardown,IT,,
 merge,"(der) Merge (Hauptwort)
-(Git-Branches) zusammenführen",Git,Verb vermeiden,
+(Git-Branches) zusammenfÃ¼hren",Git,Verb vermeiden,
 module,Modul,,,
+multicast,Multicast,IT,,
 navigator,Navigator,Node-RED,,
 node,(der) Node,Node-RED,,
 Node-RED,Node-RED,Node-RED,,
 null,null,IT,,
-number,"number (Datent5yp)
-Zahl (allgemein)",IT,,
+number,"number (Datentyp)
+Zahl (allgemein)
+Zahlenwert (allgemein)",IT,,
 object,"object (Datentyp)
 Objekt (allgemein)",IT,,
 output,"Ausgang
-Ausgangsdaten",Node-RED,je nach Kontext,
+Ausgangsdaten
+Ausgabe",Node-RED,je nach Kontext,
 package,Paket,IT,,
 palette,Palette,Node-RED,,
 parse,"(der) Parser
-zergliedern (parse)",IT,je nach Kontext,
-password,Kennwort,security,,
+parsen (im Notfall: analysiert)",IT,je nach Kontext,
+passphrase,Passphrase,IT,,
+password,Passwort,security,,
 payload,"Payload
 Nutzdaten (Payload)",IT,je nach Kontext,
 phrase,Kennfloskel,security,,
 plugin,"(das) Plugin
 Zusatzmodul (Plugin)",IT,je nach Kontext,
-port,Anschluss (Port),IT,,Geschlecht prüfen/ändern
-property,Eigenschaft,,,Geschlecht prüfen/ändern
+port,"Anschluss (Port) (bei Node-Red)
+Port (bei TCP/IP)","Node-RED
+IT",,
+property,Eigenschaft,,,
 protocol,Protokoll,,,
 pull,"(der) Pull
 vom Server- (remote) ins lokale Git-Repository ziehen (pull)",Git,Verb vermeiden,
 push,"(der) Push
-vom lokalen zum (remote) Server-Repository schieben (push)",Git,Verb vermeiden,Geschlecht prüfen/ändern
-regular expression,Regulärer Ausdruck,IT,,
+vom lokalen zum (remote) Server-Repository schieben (push)",Git,Verb vermeiden,
+regex,Regex,IT,,
+regular expression,RegulÃ¤rer Ausdruck,IT,,
 remote,"remote
 (remote) Server",Git,je nach Kontext,
 repository,(das) Repository,Git,,
-revert,Änderungen rückgängig machen (revert),Git,,
+revert,Ã„nderungen rÃ¼ckgÃ¤ngig machen (revert),Git,,
 scope,Geltungsbereich (scope),IT,,
 search box,Suchfeld,,,
 selection,Auswahl,,,
 setup,"einrichten
 installieren",IT,je nach Kontext,
 sidebar,Seitenleiste,Node-RED,,
+site,Site,IT,,
+socket,Socket,IT,,
 spinner,Spinner,,,
 ssh,SSH,security,,
-stage,Änderung für Commit zwischenspeichern (stage),Git,,
+stage,Ã„nderung fÃ¼r Commit zwischenspeichern (stage),Git,,
 string,"string (Typ)
 Zeichenfolge (allgemein)",IT,je nach Kontext,
 style,Stil,,check,
 subflow,Subflow,Node-RED,,
-tab,Registerkarte,,,
+tab,(der) Tab,,,
+theme,Thema,,,
+theme,Erscheinungsbild,IT,,
+timeout,"Zeitlimit
+ZeitÃ¼berschreitung",IT,je nach Kontext,
 toggle,"ein-/ausblenden
 ein-/ausschalten",,je nach Kontext,
-track,verknüfen (track),Git,,
+track,verknÃ¼fen (track),Git,,
+true,true,IT,,
 update,"Update
 aktualisieren (update)",IT,Verb vermeiden,
 upgrade,"Upgrade
-aufrüsten (upgrade)",IT,Verb vermeiden,
+aufrÃ¼sten (upgrade)",IT,Verb vermeiden,
 upstream,(remote) Server,Git,,
+widget,Widget,IT,,
 workflow,Arbeitsablauf,IT,,
 workspace,Arbeitsbereich,Node-RED,,
-zoom,Vergrößerung,IT,,
+zoom,VergrÃ¶ÃŸerung,IT,,

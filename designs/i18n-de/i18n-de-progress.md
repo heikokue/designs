@@ -11,46 +11,46 @@
 | node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\common\60-link.html | 1.843      | yes             | yes                     | in progress             |
 | node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\common\90-comment.html | 904        | yes             | yes                     | in progress             |
 | node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\common\98-unknown.html | 1.483      | yes             | yes                     | in progress             |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\function\10-function.html | 3.495      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\function\10-switch.html | 2.918      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\function\15-change.html | 1.723      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\function\16-range.html | 2.201      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\function\80-template.html | 2.438      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\function\89-delay.html | 2.532      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\function\89-trigger.html | 3.136      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\function\90-exec.html | 5.004      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\messages.json | 36.049     | yes             | in progress             | in progress             |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\network\05-tls.html | 757        | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\network\06-httpproxy.html | 864        | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\network\10-mqtt.html | 4.841      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\network\21-httpin.html | 5.435      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\network\21-httprequest.html | 6.568      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\network\22-websocket.html | 2.053      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\network\31-tcpin.html | 2.493      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\network\32-udp.html | 1.732      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\parsers\70-CSV.html | 3.460      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\parsers\70-HTML.html | 1.861      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\parsers\70-JSON.html | 2.870      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\parsers\70-XML.html | 2.349      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\parsers\70-YAML.html | 1.412      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\sequence\17-split.html | 9.786      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\sequence\18-sort.html | 2.229      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\sequence\19-batch.html | 2.134      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\storage\10-file.html | 3.578      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\storage\23-watch.html | 1.729      | yes             | ?                       | ?                       |
-| node-red              | \packages\node_modules\@node-red\runtime\locales\en-US\runtime.json | 10.173     | yes             | in progress             | no                      |
-| node-red-dashboard    | \nodes\locales\en-US\ui_base.json                            | 3.336      | yes             | yes                     | in progress             |
-| node-red-dashboard    | \nodes\locales\en-US\ui_chart.html                           | 1.770      | yes             | yes                     | in progress             |
-| node-red-dashboard    | \nodes\locales\en-US\ui_chart.json                           | 1.609      | yes             | yes                     | in progress             |
-| node-red-dashboard    | \nodes\locales\en-US\ui_form.html                            | 1.166      | yes             | yes                     | in progress             |
-| node-red-dashboard    | \nodes\locales\en-US\ui_form.json                            | 820        | yes             | yes                     | in progress             |
-| node-red-dashboard    | \nodes\locales\en-US\ui_group.json                           | 370        | yes             | yes                     | in progress             |
-| node-red-dashboard    | \nodes\locales\en-US\ui_link.json                            | 890        | yes             | yes                     | in progress             |
-| node-red-dashboard    | \nodes\locales\en-US\ui_tab.json                             | 1.140      | yes             | yes                     | in progress             |
-| node-red-dashboard    | \nodes\locales\en-US\ui_template.html                        | 2.839      | yes             | yes                     | in progress             |
-| node-red-dashboard    | \nodes\locales\en-US\ui_template.json                        | 562        | yes             | yes                     | in progress             |
-| node-red-dashboard    | \nodes\locales\en-US\ui_ui_control.html                      | 2.415      | yes             | yes                     | in progress             |
-| node-red-dashboard    | \nodes\locales\en-US\ui_ui_control.json                      | 178        | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\function\10-function.html | 3.495      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\function\10-switch.html | 2.918      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\function\15-change.html | 1.723      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\function\16-range.html | 2.201      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\function\80-template.html | 2.438      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\function\89-delay.html | 2.532      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\function\89-trigger.html | 3.136      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\function\90-exec.html | 5.004      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\messages.json | 36.049     | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\network\05-tls.html | 757        | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\network\06-httpproxy.html | 864        | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\network\10-mqtt.html | 4.841      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\network\21-httpin.html | 5.435      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\network\21-httprequest.html | 6.568      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\network\22-websocket.html | 2.053      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\network\31-tcpin.html | 2.493      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\network\32-udp.html | 1.732      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\parsers\70-CSV.html | 3.460      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\parsers\70-HTML.html | 1.861      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\parsers\70-JSON.html | 2.870      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\parsers\70-XML.html | 2.349      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\parsers\70-YAML.html | 1.412      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\sequence\17-split.html | 9.786      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\sequence\18-sort.html | 2.229      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\sequence\19-batch.html | 2.134      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\storage\10-file.html | 3.578      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\nodes\locales\en-US\storage\23-watch.html | 1.729      | yes             | yes                     | in progress             |
+| node-red              | \packages\node_modules\@node-red\runtime\locales\en-US\runtime.json | 10.173     | yes             | yes                     | in progress             |
+| node-red-dashboard    | \nodes\locales\en-US\ui_base.json                            | 3.336      | yes             | yes                     | yes                     |
+| node-red-dashboard    | \nodes\locales\en-US\ui_chart.html                           | 1.770      | yes             | yes                     | yes                     |
+| node-red-dashboard    | \nodes\locales\en-US\ui_chart.json                           | 1.609      | yes             | yes                     | yes                     |
+| node-red-dashboard    | \nodes\locales\en-US\ui_form.html                            | 1.166      | yes             | yes                     | yes                     |
+| node-red-dashboard    | \nodes\locales\en-US\ui_form.json                            | 820        | yes             | yes                     | yes                     |
+| node-red-dashboard    | \nodes\locales\en-US\ui_group.json                           | 370        | yes             | yes                     | yes                     |
+| node-red-dashboard    | \nodes\locales\en-US\ui_link.json                            | 890        | yes             | yes                     | yes                     |
+| node-red-dashboard    | \nodes\locales\en-US\ui_tab.json                             | 1.140      | yes             | yes                     | yes                     |
+| node-red-dashboard    | \nodes\locales\en-US\ui_template.html                        | 2.839      | yes             | yes                     | yes                     |
+| node-red-dashboard    | \nodes\locales\en-US\ui_template.json                        | 562        | yes             | yes                     | yes                     |
+| node-red-dashboard    | \nodes\locales\en-US\ui_ui_control.html                      | 2.415      | yes             | yes                     | yes                     |
+| node-red-dashboard    | \nodes\locales\en-US\ui_ui_control.json                      | 178        | yes             | yes                     | yes                     |
 | node-red-nodes        | \analysis\mlsentiment\locales\en-US\mlsentiment.json         | 137        | no              | no                      | no                      |
 | node-red-nodes        | \analysis\sentiment\locales\en-US\72-sentiment.html          | 1.178      | no              | no                      | no                      |
 | node-red-nodes        | \analysis\sentiment\locales\en-US\72-sentiment.json          | 135        | no              | no                      | no                      |

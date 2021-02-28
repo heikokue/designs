@@ -28,7 +28,7 @@ For the translation to german there should apply the following rules:
 1. Stehende Node-RED-Begriffe (Hauptwörter) werden 1:1 übernommen, jedoch ggf. groß geschrieben (Proper Node-RED-Terms (nouns) will overtaken 1:1, but with a capital first letter where appropriate). Beispiele/Examples:
    * Node
    * Flow & Subflow
-1. Gängige (eingedeutsche) IT-Begriffe werden 1:1 übernommen, jedoch ggf. groß geschrieben (Usual (in german assimilated) IT-terms will overtaken 1:1, but with a capital first letter where appropriate). Siehe/see [dictionary.csv](i18n-de/dictionary.csv). Beispiele/Examples:
+1. Gängige (eingedeutsche) IT-Begriffe werden 1:1 übernommen, jedoch ggf. groß geschrieben. Ob und wie bereits ein Begriff eingedeutscht wurde, kann z.B. im Duden (www.duden.de) oder https://www.dwds.de/ nachgeschaut werden. (Usual (in german assimilated) IT-terms will overtaken 1:1, but with a capital first letter where appropriate. Whether and how a term has already been Germanized can be seen, for example, in Duden (www.duden.de) or https://www.dwds.de/.). Siehe/see [dictionary.csv](i18n-de/dictionary.csv). Beispiele/Examples:
    * Upload, Download
    * zippen, klicken
    * Icon
